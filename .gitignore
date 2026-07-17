@@ -1,0 +1,8 @@
+venv/
+__pycache__/
+.pytest_cache/
+test-results/
+report.html
+*.webm
+*.pyc
+.DS_Store
